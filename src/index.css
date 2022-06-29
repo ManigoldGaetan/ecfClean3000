@@ -20,6 +20,6 @@ body {
     background-color: #3D3D33;
     /* Enlever la marge par défaut appliqué par le navigateur */
     margin: 0;
-    font-family:'subset'
+    font-family: Georgia, serif;
 
 }
