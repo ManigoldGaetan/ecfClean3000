@@ -14,10 +14,9 @@ const Pass = () => {
 
       const handleSubmit = (event) => {
         event.preventDefault();
-        alert(`Avis de passage \n Nom du client: ${PClient} \n  Nom du technicien:${PTech} \n  date:${Madate} \n  Observation ${Textarea}`
+          alert(`-----Avis de passage-----\nNom du client: ${PClient}\nNom du technicien:${PTech}\nDate de l'intervention: ${Madate}\nObservation ${Textarea}`
         )
       }
-
     return (
         <div className='center'>
             <form onSubmit={handleSubmit}>
