@@ -12,7 +12,7 @@ const client = [
     name:'Patrick Livran'
 },
 {
-    name:'Les jardins d'/'Ariana'
+    name:'Les jardins dAriana'
 },
   
 ];
